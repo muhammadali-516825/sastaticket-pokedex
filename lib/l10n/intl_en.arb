@@ -1,0 +1,20 @@
+{
+  "load_failed": "Load failed",
+  "pokemon_list": "Pokemons",
+  "load_image": "Load image",
+  "home": "Pokedex",
+  "press_button": "Press button",
+  "setting": "Settings",
+  "english": "English",
+  "vietnamese": "Vietnamese",
+  "dark_mode": "Dark mode",
+  "assets": "Assets gen",
+  "load_and_insert_db": "Load and insert DB",
+  "image_from_db": "Image from DB",
+  "favourites": "Favourites",
+  "delete_success": "Delete success",
+  "delete_failed": "Delete failed",
+  "didnt_supported": "Floor didnt support",
+  "login": "Login",
+  "logout": "Logout"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "965699238736",
+    "project_id": "pokedex-f49aa",
+    "storage_bucket": "pokedex-f49aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965699238736:android:3152a707b85554b1a70a55",
+        "android_client_info": {
+          "package_name": "com.sastaticket.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965699238736-789a2smlhb63nvpm5icbdkhnal9295pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2aystwCAmaZ5xO2Ophw08NvcrLHUCi1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965699238736-789a2smlhb63nvpm5icbdkhnal9295pb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965699238736-8bocuc87ni6mc5p4rahj7oq13p7ldfcd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sastaticket.pokedex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
